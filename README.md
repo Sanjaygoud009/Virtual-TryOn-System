@@ -134,4 +134,5 @@ Deploy the project on cloud platforms (Heroku / AWS / GCP).
 👨‍💻 Author
 
 A. Sanjay Goud
+
 3rd Year | Data Science & AI Student
